@@ -4,8 +4,15 @@
         <description><![CDATA[The reVue BM]]></description>
         <link>https://thegrid.ai/the-revue-boney-m-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 01:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 02:01:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-revue-boney-m-show/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aguaita.cat: Ja tenim els guanyadors de les invitacions per als Boney M Show!]]></title>
+            <description><![CDATA[<article><h1>Aguaita.cat: Ja tenim els guanyadors de les invitacions per als Boney M Show!</h1><p>Avui a migdia ha finalitzat el termini per participar en el sorteig de 3 invitacions dobles per assistir a la festa d'este divendres 14 d'agost pel 15è aniversari de les Partinando, que tindrà com a esdeveniment estrella el concert dels Boney M Show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/176b6acbaf5d30cd0d60f4d84b4db8a2e31c2f71.jpg"></article>]]></description>
+            <link>http://www.naciodigital.cat/delcamp/ebrediari/noticia/4776/ja/tenim/guanyadors/invitacions/boney/show</link>
+            <guid isPermaLink="false">d830d92f-32a1-4b63-811d-6b02a3557b6a</guid>
+            <pubDate>Mon, 29 Feb 2016 02:00:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zomercarnaval Kortrijk]]></title>
             <description><![CDATA[<article><h1>Zomercarnaval Kortrijk</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf8d8927b7ad052b2ba0e2b41e711fcb482e0988.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/ThereVueBoneyM/photos/a.852933764748516.1073741827.852922874749605/1026321560743068/?type=3</link>
             <guid isPermaLink="false">2402afcb-b37a-48e3-b1eb-e4ca7ccdf6d0</guid>
             <pubDate>Sun, 28 Feb 2016 23:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook]]></title>
-            <description><![CDATA[<article><h1>Facebook</h1><p>https://www.facebook.com/ThereVueBoneyM/info/?tab=page_info&edited=bio</p></article>]]></description>
-            <link>https://thegrid.ai/the-revue-boney-m-show/facebook/index.html</link>
-            <guid isPermaLink="false">78624630-65cc-4f65-a319-8a36d438147b</guid>
-            <pubDate>Sun, 28 Feb 2016 23:38:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
