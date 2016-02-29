@@ -1,6 +1,6 @@
 name: The reVue Boney M.Show
 favicon: null
-layout_spectrum: 0.39828
+layout_spectrum: 0.32473
 typography_spectrum: 0.61182
 title: The reVue Boney M.
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b31f00'
     - '#b7ba9d'
     - '#86581c'
-  brandStrength: 0.25
+  brandStrength: 0.3125
   lightness: 0.9375
   saturation: 0.3125
   rhythmicContrast: 1
