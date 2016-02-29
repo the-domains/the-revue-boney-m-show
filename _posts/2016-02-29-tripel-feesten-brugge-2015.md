@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://stippypictures.wordpress.com/2015/07/21/tripel-feesten-br
 inLanguage: nl
 starred: false
 keywords: []
-description: "Het Comité voor Initiatief heeft ook dit jaar weer voor een leuke affiche gezorgd. Na Niels Destadsbader en Scala was het maandag 20 juli 2015 een terugkeer naar de jaren '70. Aan de vooravond van de Nationale Feestdag stond \" Boney M. Show \"..."
-datePublished: '2016-02-29T02:30:31.786Z'
-dateModified: '2016-02-29T02:28:26.465Z'
+description: ''
+datePublished: '2016-02-29T04:14:50.624Z'
+dateModified: '2016-02-29T04:14:38.068Z'
 author:
   - name: stippy13
     url: 'https://stippypictures.wordpress.com/author/stippy13/'
