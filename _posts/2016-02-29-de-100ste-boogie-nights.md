@@ -17,8 +17,8 @@ keywords:
   - 80s
   - pool
 description: 'Zaterdag 17 oktober hadden we in een uitverkocht Luxor in Arnhem de 100ste Boogie Nights met live on stage The Boney M. Show! Wat een top avond!'
-datePublished: '2016-02-29T02:00:54.678Z'
-dateModified: '2016-02-29T02:00:27.421Z'
+datePublished: '2016-02-29T02:19:33.134Z'
+dateModified: '2016-02-29T02:18:43.050Z'
 author:
   - name: Boogie Nights
     url: 'https://www.youtube.com/user/RobSpijker'
@@ -74,6 +74,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cff2e04-d17d-482f-9d15-a8a527169101.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35a7cdde-7786-4a87-9572-d3db27e2fb3e.jpg)
+
+Check de aftermovie van de 100e Boogie Nights voor een sfeerimpressie.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FpWpIX_VJU3M%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpWpIX_VJU3M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpWpIX_VJU3M%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
