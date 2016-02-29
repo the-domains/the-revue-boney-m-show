@@ -7,15 +7,15 @@ inLanguage: nl
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T04:21:57.235Z'
-dateModified: '2016-02-29T04:17:37.306Z'
+datePublished: '2016-02-29T05:49:05.629Z'
+dateModified: '2016-02-29T05:48:49.680Z'
 author:
   - name: stippy13
     url: 'https://stippypictures.wordpress.com/author/stippy13/'
     avatar: {}
 related: []
 app_links: []
-title: 'Tripel Feesten : Brugge 2015'
+title: ''
 sourcePath: _posts/2016-02-29-tripel-feesten-brugge-2015.md
 published: true
 authors: []
