@@ -4,8 +4,15 @@
         <description><![CDATA[The reVue BM]]></description>
         <link>https://thegrid.ai/the-revue-boney-m-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 02:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 02:31:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-revue-boney-m-show/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Tribute to Bobby Farrell]]></title>
+            <description><![CDATA[<article><h1>A Tribute to Bobby Farrell</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22b4f3d2cb65a8cf57150f049d5be8573ed9b5de.png"></article>]]></description>
+            <link>https://thegrid.ai/the-revue-boney-m-show/f9668470-a535-4e3b-aaaf-0d46f66b1a52/index.html</link>
+            <guid isPermaLink="false">f9668470-a535-4e3b-aaaf-0d46f66b1a52</guid>
+            <pubDate>Mon, 29 Feb 2016 02:30:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook]]></title>
             <description><![CDATA[<article><h1>Facebook</h1><p>https://www.facebook.com/ThereVueBoneyM/</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Benidorm Palace New Year's Eve 2014</h1><p>New Year's Eve Celebrations in Benidorm Palace with Boney M</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/348f1a53dafa974cded3883518b4b717d4cce5b9.jpg"></article>]]></description>
             <link>http://www.entradasbenidormpalace.com/en/component/content/article/1-noticias/62-benidorm-palace-gala-fin-de-ano-2014</link>
             <guid isPermaLink="false">8935c18b-c205-4d58-aa8c-0154c6779405</guid>
-            <pubDate>Mon, 29 Feb 2016 01:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The reVue Boney M. Live Show & LA The Voices]]></title>
-            <description><![CDATA[<article><h1>The reVue Boney M. Live Show & LA The Voices</h1><p>Show € 27,50 - normale prijs excl. service- en administratiekosten Een geweldige liveshow van The Boney M. Show by the B-Ladies feat. Johnson en  LA The Voices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96fed93c450487008afcf3e49706637b4a229b3e.png"></article>]]></description>
-            <link>http://www.demaagd.nl/detail/777/la-the-voices-the-revue-live-show</link>
-            <guid isPermaLink="false">f141bdb1-5191-4841-b178-cecd801ff777</guid>
             <pubDate>Mon, 29 Feb 2016 01:14:05 GMT</pubDate>
         </item>
     </channel>
