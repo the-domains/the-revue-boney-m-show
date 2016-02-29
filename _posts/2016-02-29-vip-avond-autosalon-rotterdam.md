@@ -7,8 +7,8 @@ inLanguage: nl
 starred: false
 keywords: []
 description: "Feestelijke VIP Avond op 29 november tijdens de AutoSalon Rotterdam in Ahoy. Met optredens van o.a. De Ladies van Boney m, Ger Vos en Leon van Holland's Got Talent. Koop uw VIP tickets online op: TICKETJAMES"
-datePublished: '2016-02-29T02:55:13.654Z'
-dateModified: '2016-02-29T02:55:08.351Z'
+datePublished: '2016-02-29T04:22:11.145Z'
+dateModified: '2016-02-29T02:55:24.226Z'
 author:
   - name: admin_rotterdamexpo
     url: 'http://www.autosalonrotterdam.nl/nl/author/admin_rotterdamexpo/'
