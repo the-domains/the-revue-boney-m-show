@@ -8,8 +8,8 @@ color:
     - '#FFB500'
   brandStrength: 0.496621
   lightness: 0.9375
-  rhythmicContrast: 0.719594
-  saturation: 0.10304
+  rhythmicContrast: 1
+  saturation: 0.287162
 cta: {}
 layout_spectrum: 0.63928
 name: The reVue Boney M.Show
