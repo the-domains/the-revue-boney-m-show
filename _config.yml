@@ -8,7 +8,7 @@ color:
     - '#FFB500'
   brandStrength: 0.496621
   lightness: 0.9375
-  rhythmicContrast: 0.650337
+  rhythmicContrast: 0
   saturation: 0.287162
 cta: {}
 layout_spectrum: 0.63928
