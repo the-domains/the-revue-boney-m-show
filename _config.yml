@@ -6,8 +6,8 @@ color:
     - '#9B3202'
     - '#D24700'
     - '#FFB500'
-  brandStrength: 0.496621
-  lightness: 0.9375
+  brandStrength: 0.331081
+  lightness: 1
   rhythmicContrast: 0
   saturation: 0.287162
 cta: {}
