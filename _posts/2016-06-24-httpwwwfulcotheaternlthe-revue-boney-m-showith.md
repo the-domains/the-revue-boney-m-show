@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Het verhaal over het toeren met de iconische Boney M. entertainer, Bobby
   Farrell...
-datePublished: '2016-07-28T18:48:21.130Z'
-dateModified: '2016-07-28T18:47:58.761Z'
+datePublished: '2016-07-28T18:54:54.671Z'
+dateModified: '2016-07-28T18:54:12.229Z'
 title: A Tribute to 'Mr. Boney M.'
 author: []
 sourcePath: _posts/2016-06-24-httpwwwfulcotheaternlthe-revue-boney-m-showith.md
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: 'http://www.fulcotheater.nl'
   favicon: null
-starred: true
+starred: false
 url: a-tribute-to-mr-boney-m/index.html
 _type: Article
 
