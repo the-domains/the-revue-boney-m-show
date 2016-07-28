@@ -4,7 +4,7 @@
         <description><![CDATA[The reVue Boney M.Show]]></description>
         <link>https://thegrid.ai/the-revue-boney-m-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 14:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 14:29:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-revue-boney-m-show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Tribute to Bobby Farrell]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-revue-boney-m-show/f9668470-a535-4e3b-aaaf-0d46f66b1a52/index.html</link>
             <guid isPermaLink="false">f9668470-a535-4e3b-aaaf-0d46f66b1a52</guid>
             <pubDate>Thu, 10 Mar 2016 08:50:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La mítica banda Boney M. actuarà el 9 de juliol a Sant Feliu de Pallerols]]></title>
+            <description><![CDATA[<article><h1>La mítica banda Boney M. actuarà el 9 de juliol a Sant Feliu de Pallerols</h1><p>SANT FELIU DE PALLEROLS | DDG El grup Boney M. actuarà a Sant Feliu de Pallerols per celebrar el 10è aniversari de la Festa dels anys 60 del municpi. La banda actualment està formada per les tres últimes acompanyants del carsimàtic Bobby Farrel, ànima i membre fundador del grup, que va morir l'any 2010, i que va ser substituït per un nou cantant.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8196a00192fb19a324610bc2e0d0a821/noop.jpg?input=http%3A%2F%2Ffotos02.diaridegirona.cat%2F2016%2F03%2F30%2F646x260%2FXGR039CE001182844.jpg.jpg"></article>]]></description>
+            <link>http://www.diaridegirona.cat/cultura/2016/03/30/mitica-banda-boney-m-actuara/775017.html</link>
+            <guid isPermaLink="false">c7f73126-0ce7-47dd-b867-c2bb5fce8ad6</guid>
+            <pubDate>Thu, 28 Jul 2016 14:28:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No tot són mescles impossibles!]]></title>
@@ -80,13 +87,6 @@ Their tribute to Bobby Farrell is to keep the Boney M. reVue  alive!!!</p><img s
             <link>https://stippypictures.wordpress.com/2015/07/21/tripel-feesten-brugge-2015/</link>
             <guid isPermaLink="false">facc93a2-98fd-4b55-9580-fd54f03d3ec8</guid>
             <pubDate>Mon, 29 Feb 2016 06:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VIP avond AutoSalon Rotterdam]]></title>
-            <description><![CDATA[<article><h1>VIP avond AutoSalon Rotterdam</h1><p>Feestelijke VIP Avond op 29 november tijdens de AutoSalon Rotterdam in Ahoy. Met optredens van o.a. De Ladies van Boney M. Show, Ger Vos en Leon van Holland's Got Talent. Koop uw VIP tickets online op: TICKETJAMES</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ba4092c6bdc839bac4f4edbd4475caf508f0e7f.png"></article>]]></description>
-            <link>http://www.autosalonrotterdam.nl/vip-avond-autosalon-rotterdam/</link>
-            <guid isPermaLink="false">8882ef49-0ff1-4f71-a66f-f56b43e08486</guid>
-            <pubDate>Mon, 29 Feb 2016 04:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
