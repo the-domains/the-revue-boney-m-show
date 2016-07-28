@@ -1,4 +1,19 @@
-analytics: {}
+name: The reVue Boney M.Show
+favicon: null
+layout_spectrum: 0.63928
+typography_spectrum: 0.61182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,13 +21,8 @@ color:
     - '#9B3202'
     - '#D24700'
     - '#FFB500'
-  brandStrength: 0.331081
+  brandStrength: 0.25
   lightness: 1
+  saturation: 0.25
   rhythmicContrast: 0
-  saturation: 0.287162
-cta: {}
-layout_spectrum: 0.63928
-name: The reVue Boney M.Show
-opengraph: {}
 purpose: []
-typography_spectrum: 0.61182
