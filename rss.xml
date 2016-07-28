@@ -4,7 +4,7 @@
         <description><![CDATA[The reVue Boney M.Show]]></description>
         <link>https://thegrid.ai/the-revue-boney-m-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 14:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 14:29:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-revue-boney-m-show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Tribute to Bobby Farrell]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-revue-boney-m-show/f9668470-a535-4e3b-aaaf-0d46f66b1a52/index.html</link>
             <guid isPermaLink="false">f9668470-a535-4e3b-aaaf-0d46f66b1a52</guid>
             <pubDate>Thu, 10 Mar 2016 08:50:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No tot són mescles impossibles!]]></title>
+            <description><![CDATA[<article><h1>No tot són mescles impossibles!</h1><p>La segona nit a la carpa de l'estació ha estat marcada per la diversitat i per una aparent desconnexió de ritmes i propostes musicals que han connectat i enllaçat amb gràcia per fer d'aquesta nit, una bona segona nit a la carpa de La Capsa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed7f228687e3998a74b8a35fa0ec431a9aa27975.jpg"></article>]]></description>
+            <link>http://www.boneym-group.es/images/prensa/no-tot-son-mescles-impossibles/</link>
+            <guid isPermaLink="false">cdc5cb57-97a5-494d-8fc5-421a60141923</guid>
+            <pubDate>Thu, 28 Jul 2016 14:28:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Tribute to 'Mr. Boney M.']]></title>
@@ -80,13 +87,6 @@ Their tribute to Bobby Farrell is to keep the Boney M. reVue  alive!!!</p><img s
             <link>http://www.autosalonrotterdam.nl/vip-avond-autosalon-rotterdam/</link>
             <guid isPermaLink="false">8882ef49-0ff1-4f71-a66f-f56b43e08486</guid>
             <pubDate>Mon, 29 Feb 2016 04:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53f7ddff-72ac-4813-8aaf-c99b4c8ad102.jpg">]]></description>
-            <link>https://www.facebook.com/ThereVueBoneyM/photos/a.852933764748516.1073741827.852922874749605/1026321560743068/?type=3</link>
-            <guid isPermaLink="false">2402afcb-b37a-48e3-b1eb-e4ca7ccdf6d0</guid>
-            <pubDate>Mon, 29 Feb 2016 02:37:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
